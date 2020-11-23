@@ -1,5 +1,5 @@
 # Bangood-Scraper
-A scraping tool to extract information from bangood
+A scraping tool to extract information from bangood. Just download and run the 'scrape_bangood.py' script.
 
 ## The UI:
 ![alt text](https://i.imgur.com/69vXoWI.png)
